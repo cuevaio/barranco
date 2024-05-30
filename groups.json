@@ -1,0 +1,24 @@
+[
+  {
+    "groupId": 1,
+    "intersectionId": 1,
+    "points": [
+      {
+        "pointId": 1,
+        "label": ["initial", "right"]
+      },
+      {
+        "pointId": 2,
+        "label": ["initial", "left"]
+      },
+      {
+        "pointId": 3,
+        "label": ["final", "right"]
+      },
+      {
+        "pointId": 4,
+        "label": ["final", "left"]
+      }
+    ]
+  }
+]

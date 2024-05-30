@@ -1,0 +1,16 @@
+names:
+- bicycle
+- bus
+- car
+- motorcycle
+- truck
+nc: 5
+roboflow:
+  license: MIT
+  project: barranco-movement
+  url: https://universe.roboflow.com/thezzzis/barranco-movement/dataset/3
+  version: 3
+  workspace: thezzzis
+test: ../test/images
+train: ../train/images
+val: ../valid/images
